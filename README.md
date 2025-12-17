@@ -7,9 +7,8 @@ Esto responde a las indicaciones de uso.
 
 ## Configuración
 1. Crear la BD `P1700` y ejecutar scripts SQL adjuntados en el correo
-2. Configurar connection string:
-   - Copiar `appsettings.example.json` a `appsettings.json`
-   - Editar `ConnectionStrings:DefaultConnection`
+2. Configurar connection string de ser necesario (appsettings.json)
+
 
 ## Ejecutar
 ```bash
